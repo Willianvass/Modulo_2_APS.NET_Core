@@ -1,4 +1,4 @@
-# Metodo_.NET-Direto_ao_Ponto__Luis_Dev__MODULO_2_ASP.NET_Core
+# Modulo_2_APS.NET_Core
 
 ## Formação ASP.NET Core
 
